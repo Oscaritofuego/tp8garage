@@ -33,7 +33,7 @@ public class Stationnement {
 	}
 
 	public void terminer() {
-		// On enregistre la date de fin du stationnement
+                // On enregistre
 		fin = new Date(); // Date du jour
 	}
 
